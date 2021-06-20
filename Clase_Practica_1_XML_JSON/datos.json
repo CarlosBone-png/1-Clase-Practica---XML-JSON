@@ -1,0 +1,50 @@
+{
+    "Details": [
+        {
+            "Category": "Infantiles", "Product": "Moda", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Ropa para niños y niñas de 3-12 años."},
+
+        {
+            "Category": "Infantiles", "Product": "Juguetes", 
+            "Stock":"Si", "Temp": "Navidad", 
+            "Desc":"Encontra el regalo perfecto para cualquier niño."},
+
+        {
+            "Category": "Damas", "Product": "Moda", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Blusas, pantalones, sueteres y hasta vestidos para ellas."},
+
+        {
+            "Category": "Damas", "Product": "Maquillaje", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Las mejores marcas de belleza solo aqui."},
+
+        {
+            "Category": "Caballeros", "Product": "Moda", 
+            "Stock":"Si", "Temp": "Verano", 
+            "Desc":"Camisetas, trajes, corbatas y mucho mas." },
+
+        {
+            "Category": "Caballeros", "Product": "Tecnologia", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Computadoras, equipos de sonido y televisores."},
+        {
+            "Category": "Hogar", "Product": "Linea Blanca", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Los electrodomesticos fundamentales para tu hogar."},
+       
+        {
+            "Category": "Hogar", "Product": "Muebles", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Encontra el mueble que mas te guste al mejor precio."},
+        {
+            "Category": "Deportes", "Product": "Accesorios", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Ropa y calzado deportivo, mancuernas y todo tipo de balones"},
+        {
+            "Category": "Deportes", "Product": "Maquinas", 
+            "Stock":"Si", "Temp": "Todas", 
+            "Desc":"Caminadoras, bicicletas y escaladoras para ejercitarte en la seguridad de tu hogar."}
+          ]
+         }

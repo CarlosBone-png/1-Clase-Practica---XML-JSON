@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tienda_virtual>
+
+            <category>
+                <content>
+                <name> Infantiles </name>
+                <code> I-4578 </code>  
+                <img> <i class="fas fa-child"></i> </img>
+                <desc> Ropa, calzado, jueguetes y mucho mas para los mas pequenos del hogar.  </desc>
+                </content>
+            </category>
+
+            <category>
+                <content>
+                    <name> Damas </name>
+                    <code> D-4585  </code>
+                    <img> <i class="fas fa-female"></i></img>
+                    <desc> Articulos de belleza y ropa para las reinas de la casa.  </desc>
+                    </content>
+            </category>
+            
+            <category>   
+                <content>   
+                    <name> Caballeros </name>     
+                    <code> C-4596 </code> 
+                    <img> <i class="fas fa-male"></i> </img>
+                    <desc> Productos electronicos y trajes de marca para las ocasiones especiales.  </desc>
+                </content>
+            </category>
+             
+            <category>
+                <content>
+                    <name> Hogar </name>
+                    <code> H-8576  </code>
+                    <img> <i class="fas fa-home"></i> </img>
+                    <desc> Linea blanca para facilitar tu dia y muebles para embellecer tu hogar.  </desc>
+                </content>
+            </category>
+            
+             <category>
+                <content>
+                     <name> Deportes </name>
+                    <code> X-8675 </code>
+                    <img>  <i class="fas fa-futbol"></i> </img>
+                    <desc> Todo tipo de productos para que te ejercites en estos momentos dificiles.  </desc>
+                </content>
+            </category>
+
+
+</Tienda_virtual>
